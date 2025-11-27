@@ -1,0 +1,1 @@
+The file system encryption process uses matrix algebra and graph theory. Data integrity is ensured by the inverse key. This message is broken into  character chunks for efficient processing and transmission across a network.
